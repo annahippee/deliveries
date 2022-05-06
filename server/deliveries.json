@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98564451702777, 40.748478971678274]
+      },
+      "properties": {
+        "id": "1",
+        "notes": "Package is very fragile! Please be careful.",
+        "name": "Samuel Travis",
+        "delivered": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.01282680079515, 40.71316856275988]
+      },
+      "properties": {
+        "id": "2",
+        "notes": "The dog is friendly.",
+        "name": "Angelita Palmer",
+        "delivered": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.97544835690412, 40.75175082067665]
+      },
+      "properties": {
+        "id": "3",
+        "notes": "The dog is not so friendly.",
+        "name": "Brad Moody",
+        "delivered": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99734551248017, 40.73082602754584]
+      },
+      "properties": {
+        "id": "4",
+        "notes": "Leave package on the porch.",
+        "name": "Ingrid Sandoval",
+        "delivered": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.96325847777707, 40.77955059624799]
+      },
+      "properties": {
+        "id": "5",
+        "notes": "House is blue with green shutters, you can't miss it.",
+        "name": "Kathleen Jackson",
+        "delivered": false
+      }
+    }
+  ]
+}
